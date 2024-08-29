@@ -81,6 +81,28 @@ body {
   background: #ddd;
 }
 
+.about {
+  background: url(https://images.pexels.com/photos/2258536/pexels-photo-2258536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
+}
+
+.about-content h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.about-content p {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+
 section {
   padding: 60px 20px;
   text-align: center;
