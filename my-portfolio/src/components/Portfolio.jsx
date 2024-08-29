@@ -18,8 +18,8 @@ const Portfolio = () => {
                 </div>
                 <div className="portfolio-item">
                     <img src="project3.jpg" alt="Project 3" />
-                    <h3>Project Title 3</h3>
-                    <p>Short description of the project.</p>
+                    <h3>Battleship</h3>
+                    <p>A one sided single player battleship game.</p>
                 </div>
             </div>
         </section>

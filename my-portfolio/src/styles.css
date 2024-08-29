@@ -157,14 +157,14 @@ section {
 }
 
 .skill-bar {
-  background: #f4f4f4;
+  background: #9c9898;
   border-radius: 5px;
   overflow: hidden;
 }
 
 .skill-level {
   height: 20px;
-  background: #333;
+  background: #156a9b;
 }
 
 .contact {
