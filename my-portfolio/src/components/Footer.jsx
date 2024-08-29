@@ -4,7 +4,7 @@ import '../styles.css';
 const Footer = () => {
     return (
         <footer>
-            <p>&copy; 2024 [James Warren]. All rights reserved.</p>
+            <p>&copy; 2024 James Warren. All rights reserved.</p>
             <p>Follow me on 
                 <a href="www.linkedin.com/in/jameswarren83">LinkedIn</a>, 
                 <a href="https://github.com/Shadow-of-Drax">GitHub</a>, 
