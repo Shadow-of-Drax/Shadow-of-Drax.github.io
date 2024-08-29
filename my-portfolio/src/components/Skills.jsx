@@ -41,6 +41,18 @@ const Skills = () => {
                     <div className="skill-bar">
                         <div className="skill-level" style={{width: '100%'}}></div>
                     </div> 
+                </div>
+                <div className="skill-item">
+                    <h3>Leadership</h3>
+                    <div className="skill-bar">
+                        <div className="skill-level" style={{width: '100%'}}></div>
+                    </div> 
+                </div>
+                <div className="skill-item">
+                    <h3>Project Management</h3>
+                    <div className="skill-bar">
+                        <div className="skill-level" style={{width: '100%'}}></div>
+                    </div> 
                 </div>   
             </div>
         </section>
